@@ -1,2 +1,5 @@
 ## Author
-Edward Ma
+Name: Edward Ma (Data Scientist)
+Experience: 
+  * NLP
+  * Arrival time prediction
